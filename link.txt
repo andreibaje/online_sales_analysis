@@ -1,0 +1,2 @@
+Here is a link towards the directory online:
+https://github.com/andreibaje/online_sales_analysis
